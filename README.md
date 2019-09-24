@@ -42,7 +42,7 @@ The username and password can be accessed upon request
 
 ## License
 
-This project is licensed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License) 
+This project is licensed under the [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/) 
 
 ## Acknowledgments
 
