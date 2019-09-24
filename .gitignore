@@ -1,0 +1,5 @@
+3dsudokuvenv
+*.png
+.DS_Store
+.env
+
