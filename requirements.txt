@@ -14,7 +14,7 @@ Flask-SeaSurf==0.2.2
 gunicorn==23.0.0
 idna==3.7
 itsdangerous==1.1.0
-Jinja2==3.1.5
+Jinja2==3.1.6
 MarkupSafe==1.1.1
 numpy==1.22.0
 pandas==0.25.0
